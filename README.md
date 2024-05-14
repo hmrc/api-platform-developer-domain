@@ -1,7 +1,11 @@
 
 # api-platform-developer-domain
 
-This is a placeholder README.md for a new repository
+Library of common Api Platform developer models.
+
+## Running the tests
+
+    run_all_tests.sh
 
 ### License
 
